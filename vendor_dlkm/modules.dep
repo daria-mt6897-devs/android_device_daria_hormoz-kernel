@@ -1,0 +1,258 @@
+/vendor/lib/modules/mcupm.ko: /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko
+/vendor/lib/modules/atf_logger.ko:
+/vendor/lib/modules/mtk_gpu_hal.ko:
+/vendor/lib/modules/mtk-sp-spk-amp.ko: /vendor/lib/modules/snd-soc-audiodsp-common.ko /vendor/lib/modules/audio_ipi.ko /vendor/lib/modules/mtk-scp-audiocommon.ko /vendor/lib/modules/scp.ko /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko
+/vendor/lib/modules/mtk-cam-isp7sp.ko: /vendor/lib/modules/mtk_ccu.ko /vendor/lib/modules/mtk_sec_heap.ko /vendor/lib/modules/tmem_ffa.ko /vendor/lib/modules/gz_tz_system.ko /vendor/lib/modules/gz_ipc_mod.ko /vendor/lib/modules/gz_trusty_mod.ko /vendor/lib/modules/ccd_rpmsg.ko
+/vendor/lib/modules/mtk-lpm.ko:
+/vendor/lib/modules/cpuqos_v3.ko:
+/vendor/lib/modules/mtk-lpm-dbg-common-v2.ko: /vendor/lib/modules/mtk-lpm.ko
+/system/lib/modules/nhc_ipv6.ko: /system/lib/modules/6lowpan.ko
+/system/lib/modules/ppp_deflate.ko: /system/lib/modules/ppp_generic.ko /system/lib/modules/slhc.ko
+/vendor/lib/modules/mtk_battery_oc_throttling.ko:
+/vendor/lib/modules/mtk_hcp.ko:
+/vendor/lib/modules/mtk_perf_common.ko: /vendor/lib/modules/cpufreq_sugov_ext.ko /vendor/lib/modules/thermal_interface.ko /vendor/lib/modules/mtk_gpufreq_wrapper.ko /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko /vendor/lib/modules/mtk_gpu_hal.ko /vendor/lib/modules/gpueb.ko /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko /vendor/lib/modules/mtk_qos.ko /vendor/lib/modules/sspm_v3.ko
+/vendor/lib/modules/board_temp.ko:
+/system/lib/modules/nhc_udp.ko: /system/lib/modules/6lowpan.ko
+/vendor/lib/modules/pda_drv_mt6897.ko:
+/vendor/lib/modules/mtk_imgsys_v4l2.ko: /vendor/lib/modules/mtk-ipesys-me.ko /vendor/lib/modules/mtk_imgsys_cmdq.ko /vendor/lib/modules/cmdq-sec-drv.ko /vendor/lib/modules/mtk_hcp.ko /vendor/lib/modules/gz_tz_system.ko /vendor/lib/modules/gz_ipc_mod.ko /vendor/lib/modules/gz_trusty_mod.ko
+/vendor/lib/modules/mtk-ssc-dbg-v2.ko: /vendor/lib/modules/mtk-ssc.ko
+/vendor/lib/modules/mtk-pwm.ko:
+/system/lib/modules/usbserial.ko:
+/system/lib/modules/nhc_hop.ko: /system/lib/modules/6lowpan.ko
+/vendor/lib/modules/fpsgo.ko: /vendor/lib/modules/mtk_fpsgo.ko /vendor/lib/modules/ged.ko /vendor/lib/modules/mtk_gpu_qos.ko /vendor/lib/modules/mtk_cm_mgr.ko /vendor/lib/modules/mtk_cm_ipi.ko /vendor/lib/modules/scheduler.ko /vendor/lib/modules/cpuqos_v3.ko /vendor/lib/modules/powerhal_cpu_ctrl.ko /vendor/lib/modules/mtk_ioctl_powerhal.ko /vendor/lib/modules/cpudvfs.ko /vendor/lib/modules/mtk_perf_ioctl_magt.ko /vendor/lib/modules/mtk_perf_ioctl.ko /vendor/lib/modules/cpufreq_sugov_ext.ko /vendor/lib/modules/thermal_interface.ko /vendor/lib/modules/mtk_gpufreq_wrapper.ko /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko /vendor/lib/modules/mtk_gpu_hal.ko /vendor/lib/modules/gpueb.ko /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko /vendor/lib/modules/mtk_qos.ko /vendor/lib/modules/sspm_v3.ko
+/system/lib/modules/slhc.ko:
+/vendor/lib/modules/gpueb.ko: /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko
+/vendor/lib/modules/snd-soc-mt6368.ko: /vendor/lib/modules/mt6368-accdet.ko
+/vendor/lib/modules/sub_vcm.ko:
+/vendor/lib/modules/richtek_spm_cls.ko: /vendor/lib/modules/mtk-sp-spk-amp.ko /vendor/lib/modules/snd-soc-audiodsp-common.ko /vendor/lib/modules/audio_ipi.ko /vendor/lib/modules/mtk-scp-audiocommon.ko /vendor/lib/modules/scp.ko /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko
+/vendor/lib/modules/thermal-generic-adc.ko:
+/vendor/lib/modules/charger_cooling.ko:
+/vendor/lib/modules/mtk_heap_debug.ko: /vendor/lib/modules/mtk_sec_heap.ko /vendor/lib/modules/tmem_ffa.ko /vendor/lib/modules/gz_tz_system.ko /vendor/lib/modules/gz_ipc_mod.ko /vendor/lib/modules/gz_trusty_mod.ko
+/system/lib/modules/ftdi_sio.ko: /system/lib/modules/usbserial.ko
+/vendor/lib/modules/mtk_imgsys_isp7sp.ko: /vendor/lib/modules/mtk_imgsys_v4l2.ko /vendor/lib/modules/mtk-ipesys-me.ko /vendor/lib/modules/mtk_imgsys_cmdq.ko /vendor/lib/modules/cmdq-sec-drv.ko /vendor/lib/modules/mtk_hcp.ko /vendor/lib/modules/gz_tz_system.ko /vendor/lib/modules/gz_ipc_mod.ko /vendor/lib/modules/gz_trusty_mod.ko
+/system/lib/modules/cdc_ncm.ko: /system/lib/modules/cdc_ether.ko /system/lib/modules/usbnet.ko /system/lib/modules/mii.ko
+/system/lib/modules/ppp_generic.ko: /system/lib/modules/slhc.ko
+/vendor/lib/modules/camera_af_media.ko:
+/system/lib/modules/can-bcm.ko: /system/lib/modules/can.ko
+/vendor/lib/modules/t-base-tui.ko: /vendor/lib/modules/mtk_sec_heap.ko /vendor/lib/modules/tmem_ffa.ko /vendor/lib/modules/gz_tz_system.ko /vendor/lib/modules/gz_ipc_mod.ko /vendor/lib/modules/gz_trusty_mod.ko
+/vendor/lib/modules/mtk_bp_thl.ko:
+/vendor/lib/modules/mtk_peak_power_budget.ko: /vendor/lib/modules/mtk_battery_oc_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko
+/vendor/lib/modules/cpufreq_sugov_ext.ko: /vendor/lib/modules/thermal_interface.ko /vendor/lib/modules/mtk_gpufreq_wrapper.ko /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko /vendor/lib/modules/mtk_gpu_hal.ko /vendor/lib/modules/gpueb.ko /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko
+/vendor/lib/modules/mtk_cpu_power_throttling.ko: /vendor/lib/modules/mtk_bp_thl.ko /vendor/lib/modules/mtk_battery_oc_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko
+/vendor/lib/modules/mtk_perf_ioctl_magt.ko:
+/vendor/lib/modules/mtk-swpm-dbg-v6897.ko: /vendor/lib/modules/mtk-swpm-audio-dbg-v6897.ko /vendor/lib/modules/mtk-swpm-dbg-common-v1.ko /vendor/lib/modules/mtk-swpm.ko /vendor/lib/modules/ged.ko /vendor/lib/modules/mtk_gpu_qos.ko /vendor/lib/modules/mtk_gpufreq_wrapper.ko /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko /vendor/lib/modules/mtk_gpu_hal.ko /vendor/lib/modules/gpueb.ko /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko /vendor/lib/modules/mtk_qos.ko /vendor/lib/modules/sspm_v3.ko
+/vendor/lib/modules/cpudvfs.ko: /vendor/lib/modules/cpufreq_sugov_ext.ko /vendor/lib/modules/thermal_interface.ko /vendor/lib/modules/mtk_gpufreq_wrapper.ko /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko /vendor/lib/modules/mtk_gpu_hal.ko /vendor/lib/modules/gpueb.ko /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko
+/vendor/lib/modules/soc_temp_lvts.ko: /vendor/lib/modules/thermal_interface.ko /vendor/lib/modules/mtk_gpufreq_wrapper.ko /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko /vendor/lib/modules/mtk_gpu_hal.ko /vendor/lib/modules/gpueb.ko /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko
+/vendor/lib/modules/sapu.ko: /vendor/lib/modules/mtk_sec_heap.ko /vendor/lib/modules/tmem_ffa.ko /vendor/lib/modules/gz_tz_system.ko /vendor/lib/modules/gz_ipc_mod.ko /vendor/lib/modules/gz_trusty_mod.ko
+/system/lib/modules/hidp.ko: /system/lib/modules/bluetooth.ko /system/lib/modules/rfkill.ko
+/vendor/lib/modules/ccmni.ko: /vendor/lib/modules/rps_perf.ko
+/vendor/lib/modules/jpeg-driver.ko:
+/vendor/lib/modules/ccci_util_lib.ko:
+/vendor/lib/modules/mtk-vow.ko: /vendor/lib/modules/scp.ko /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko
+/system/lib/modules/rtl8150.ko:
+/system/lib/modules/l2tp_core.ko:
+/vendor/lib/modules/mtk_gpu_qos.ko: /vendor/lib/modules/mtk_gpufreq_wrapper.ko /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko /vendor/lib/modules/mtk_gpu_hal.ko /vendor/lib/modules/gpueb.ko /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko /vendor/lib/modules/mtk_qos.ko /vendor/lib/modules/sspm_v3.ko
+/vendor/lib/modules/mtk_tinysys_ipi.ko: /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko
+/vendor/lib/modules/mtk_dynamic_loading_throttling.ko: /vendor/lib/modules/mtk_low_battery_throttling.ko
+/vendor/lib/modules/wmt_chrdev_wifi_connac2.ko:
+/vendor/lib/modules/aw_haptic.ko:
+/vendor/lib/modules/connadp.ko: /vendor/lib/modules/mtk_low_battery_throttling.ko
+/vendor/lib/modules/sensorhub.ko: /vendor/lib/modules/pixel_manager.ko /vendor/lib/modules/hf_manager.ko /vendor/lib/modules/scp.ko /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko
+/vendor/lib/modules/gps_pwr.ko: /vendor/lib/modules/connadp.ko /vendor/lib/modules/mtk_low_battery_throttling.ko
+/vendor/lib/modules/mtk-vcu.ko: /vendor/lib/modules/vcp.ko /vendor/lib/modules/mtk-vcodec-common.ko /vendor/lib/modules/scheduler.ko /vendor/lib/modules/cpuqos_v3.ko /vendor/lib/modules/powerhal_cpu_ctrl.ko /vendor/lib/modules/mtk_ioctl_powerhal.ko /vendor/lib/modules/cpudvfs.ko /vendor/lib/modules/cpufreq_sugov_ext.ko /vendor/lib/modules/thermal_interface.ko /vendor/lib/modules/mtk_gpufreq_wrapper.ko /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko /vendor/lib/modules/mtk_gpu_hal.ko /vendor/lib/modules/gpueb.ko /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko
+/vendor/lib/modules/c2k_usb_f_via_atc.ko: /vendor/lib/modules/c2k_usb.ko /vendor/lib/modules/ccci_md_all.ko /vendor/lib/modules/ccci_auxadc.ko /vendor/lib/modules/ccci_util_lib.ko /vendor/lib/modules/ccmni.ko /vendor/lib/modules/rps_perf.ko /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko
+/vendor/lib/modules/ccci_dpmaif.ko: /vendor/lib/modules/ccci_md_all.ko /vendor/lib/modules/ccci_auxadc.ko /vendor/lib/modules/ccci_util_lib.ko /vendor/lib/modules/ccmni.ko /vendor/lib/modules/rps_perf.ko /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko
+/vendor/lib/modules/ccci_ccif.ko: /vendor/lib/modules/ccci_md_all.ko /vendor/lib/modules/ccci_auxadc.ko /vendor/lib/modules/ccci_util_lib.ko /vendor/lib/modules/ccmni.ko /vendor/lib/modules/rps_perf.ko /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko
+/vendor/lib/modules/mtk_gpufreq_mt6897.ko: /vendor/lib/modules/mtk_gpufreq_wrapper.ko /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko /vendor/lib/modules/mtk_gpu_hal.ko /vendor/lib/modules/gpueb.ko /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko
+/system/lib/modules/r8152.ko: /system/lib/modules/mii.ko
+/vendor/lib/modules/main_vcm.ko:
+/vendor/lib/modules/rps_perf.ko:
+/system/lib/modules/nhc_routing.ko: /system/lib/modules/6lowpan.ko
+/vendor/lib/modules/mtk-mmdvfs-v3-start.ko:
+/vendor/lib/modules/mtk_core_ctl.ko: /vendor/lib/modules/scheduler.ko /vendor/lib/modules/cpuqos_v3.ko /vendor/lib/modules/powerhal_cpu_ctrl.ko /vendor/lib/modules/mtk_ioctl_powerhal.ko /vendor/lib/modules/cpudvfs.ko /vendor/lib/modules/cpufreq_sugov_ext.ko /vendor/lib/modules/thermal_interface.ko /vendor/lib/modules/mtk_gpufreq_wrapper.ko /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko /vendor/lib/modules/mtk_gpu_hal.ko /vendor/lib/modules/gpueb.ko /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko
+/vendor/lib/modules/mtk_qos.ko: /vendor/lib/modules/sspm_v3.ko
+/system/lib/modules/bluetooth.ko: /system/lib/modules/rfkill.ko
+/vendor/lib/modules/reboot-mode.ko:
+/vendor/lib/modules/mtk-pm-domain-disable-unused.ko:
+/vendor/lib/modules/mtk_perf_ioctl.ko:
+/vendor/lib/modules/mddp.ko: /vendor/lib/modules/ccci_md_all.ko /vendor/lib/modules/ccci_auxadc.ko /vendor/lib/modules/ccci_util_lib.ko /vendor/lib/modules/ccmni.ko /vendor/lib/modules/rps_perf.ko /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko
+/vendor/lib/modules/cs_usb_broadcast.ko:
+/vendor/lib/modules/imgsensor.ko: /vendor/lib/modules/imgsensor-glue.ko /vendor/lib/modules/mtk_ccu.ko
+/system/lib/modules/nhc_mobility.ko: /system/lib/modules/6lowpan.ko
+/system/lib/modules/asix.ko: /system/lib/modules/usbnet.ko /system/lib/modules/mii.ko
+/vendor/lib/modules/mtk_rpmsg_mbox.ko: /vendor/lib/modules/mtk-mbox.ko
+/vendor/lib/modules/frs.ko: /vendor/lib/modules/mtk_fpsgo.ko /vendor/lib/modules/ged.ko /vendor/lib/modules/mtk_gpu_qos.ko /vendor/lib/modules/mtk_cm_mgr.ko /vendor/lib/modules/mtk_cm_ipi.ko /vendor/lib/modules/scheduler.ko /vendor/lib/modules/cpuqos_v3.ko /vendor/lib/modules/powerhal_cpu_ctrl.ko /vendor/lib/modules/mtk_ioctl_powerhal.ko /vendor/lib/modules/cpudvfs.ko /vendor/lib/modules/mtk_perf_ioctl_magt.ko /vendor/lib/modules/mtk_perf_ioctl.ko /vendor/lib/modules/cpufreq_sugov_ext.ko /vendor/lib/modules/thermal_interface.ko /vendor/lib/modules/mtk_gpufreq_wrapper.ko /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko /vendor/lib/modules/mtk_gpu_hal.ko /vendor/lib/modules/gpueb.ko /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko /vendor/lib/modules/mtk_qos.ko /vendor/lib/modules/sspm_v3.ko
+/vendor/lib/modules/mtk_cm_ipi.ko:
+/vendor/lib/modules/tmem_ffa.ko: /vendor/lib/modules/gz_tz_system.ko /vendor/lib/modules/gz_ipc_mod.ko /vendor/lib/modules/gz_trusty_mod.ko
+/vendor/lib/modules/vtskin_temp.ko: /vendor/lib/modules/thermal_interface.ko /vendor/lib/modules/mtk_gpufreq_wrapper.ko /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko /vendor/lib/modules/mtk_gpu_hal.ko /vendor/lib/modules/gpueb.ko /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko
+/vendor/lib/modules/mtk-mbox.ko:
+/vendor/lib/modules/mtk_pbm.ko: /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko
+/system/lib/modules/can-dev.ko:
+/vendor/lib/modules/mtk-lpm-dbg-mt6897.ko: /vendor/lib/modules/mtk-lpm-dbg-common-v2.ko /vendor/lib/modules/mtk-lpm.ko
+/system/lib/modules/rfkill.ko:
+/vendor/lib/modules/dw9781c.ko: /vendor/lib/modules/hf_manager.ko
+/vendor/lib/modules/fmradio_drv_connac2x.ko: /vendor/lib/modules/conninfra.ko /vendor/lib/modules/ccci_md_all.ko /vendor/lib/modules/ccci_auxadc.ko /vendor/lib/modules/ccci_util_lib.ko /vendor/lib/modules/ccmni.ko /vendor/lib/modules/rps_perf.ko /vendor/lib/modules/connadp.ko /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko
+/vendor/lib/modules/gz_virtio_mod.ko: /vendor/lib/modules/gz_trusty_mod.ko
+/vendor/lib/modules/main2_vcm.ko:
+/system/lib/modules/8021q.ko:
+/system/lib/modules/ppp_mppe.ko: /system/lib/modules/libarc4.ko /system/lib/modules/ppp_generic.ko /system/lib/modules/slhc.ko
+/vendor/lib/modules/mali_dmabuf_test_mt6897_r44.ko:
+/vendor/lib/modules/mtk_md_power_throttling.ko: /vendor/lib/modules/ccci_md_all.ko /vendor/lib/modules/ccci_auxadc.ko /vendor/lib/modules/ccci_util_lib.ko /vendor/lib/modules/ccmni.ko /vendor/lib/modules/rps_perf.ko /vendor/lib/modules/mtk_battery_oc_throttling.ko /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko
+/vendor/lib/modules/mtk_sec_heap.ko: /vendor/lib/modules/tmem_ffa.ko /vendor/lib/modules/gz_tz_system.ko /vendor/lib/modules/gz_ipc_mod.ko /vendor/lib/modules/gz_trusty_mod.ko
+/vendor/lib/modules/mtk_cm_mgr.ko: /vendor/lib/modules/mtk_cm_ipi.ko
+/vendor/lib/modules/snd-soc-rt5512.ko: /vendor/lib/modules/richtek_spm_cls.ko /vendor/lib/modules/mtk-sp-spk-amp.ko /vendor/lib/modules/snd-soc-audiodsp-common.ko /vendor/lib/modules/audio_ipi.ko /vendor/lib/modules/mtk-scp-audiocommon.ko /vendor/lib/modules/scp.ko /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko
+/vendor/lib/modules/mtk-swpm-dbg-common-v1.ko: /vendor/lib/modules/mtk-swpm.ko /vendor/lib/modules/ged.ko /vendor/lib/modules/mtk_gpu_qos.ko /vendor/lib/modules/mtk_gpufreq_wrapper.ko /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko /vendor/lib/modules/mtk_gpu_hal.ko /vendor/lib/modules/gpueb.ko /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko /vendor/lib/modules/mtk_qos.ko /vendor/lib/modules/sspm_v3.ko
+/vendor/lib/modules/syscon-reboot-mode.ko: /vendor/lib/modules/reboot-mode.ko
+/vendor/lib/modules/mtk_cm_mgr_mt6897.ko: /vendor/lib/modules/mtk_cm_mgr.ko /vendor/lib/modules/mtk_cm_ipi.ko
+/vendor/lib/modules/mtk-vcodec-dec-v2.ko: /vendor/lib/modules/vcp.ko /vendor/lib/modules/mtk-vcodec-common.ko /vendor/lib/modules/scheduler.ko /vendor/lib/modules/cpuqos_v3.ko /vendor/lib/modules/powerhal_cpu_ctrl.ko /vendor/lib/modules/mtk_ioctl_powerhal.ko /vendor/lib/modules/cpudvfs.ko /vendor/lib/modules/cpufreq_sugov_ext.ko /vendor/lib/modules/thermal_interface.ko /vendor/lib/modules/mtk_gpufreq_wrapper.ko /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko /vendor/lib/modules/mtk_gpu_hal.ko /vendor/lib/modules/gpueb.ko /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko
+/vendor/lib/modules/mali_mgm_mt6897_r44.ko:
+/vendor/lib/modules/mtk-swpm-cpu-dbg-v6897.ko: /vendor/lib/modules/mtk-swpm.ko /vendor/lib/modules/thermal_interface.ko /vendor/lib/modules/mtk_gpufreq_wrapper.ko /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko /vendor/lib/modules/mtk_gpu_hal.ko /vendor/lib/modules/gpueb.ko /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko /vendor/lib/modules/mtk_qos.ko /vendor/lib/modules/sspm_v3.ko
+/vendor/lib/modules/camera_eeprom_v4l2.ko:
+/vendor/lib/modules/mtk-scp-audiocommon.ko: /vendor/lib/modules/scp.ko /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko
+/vendor/lib/modules/powerhal_cpu_ctrl.ko: /vendor/lib/modules/mtk_ioctl_powerhal.ko /vendor/lib/modules/cpudvfs.ko /vendor/lib/modules/cpufreq_sugov_ext.ko /vendor/lib/modules/thermal_interface.ko /vendor/lib/modules/mtk_gpufreq_wrapper.ko /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko /vendor/lib/modules/mtk_gpu_hal.ko /vendor/lib/modules/gpueb.ko /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko
+/vendor/lib/modules/bt_drv_6897.ko: /vendor/lib/modules/connfem.ko /vendor/lib/modules/conninfra.ko /vendor/lib/modules/ccci_md_all.ko /vendor/lib/modules/ccci_auxadc.ko /vendor/lib/modules/ccci_util_lib.ko /vendor/lib/modules/ccmni.ko /vendor/lib/modules/rps_perf.ko /vendor/lib/modules/connadp.ko /system/lib/modules/bluetooth.ko /system/lib/modules/rfkill.ko /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko
+/vendor/lib/modules/mtk_et.ko:
+/vendor/lib/modules/mtk_irtx_pwm.ko: /vendor/lib/modules/mtk-pwm.ko
+/vendor/lib/modules/gz_main_mod.ko: /vendor/lib/modules/mtk_sec_heap.ko /vendor/lib/modules/tmem_ffa.ko /vendor/lib/modules/gz_tz_system.ko /vendor/lib/modules/gz_ipc_mod.ko /vendor/lib/modules/gz_trusty_mod.ko
+/vendor/lib/modules/ccci_fsm_scp.ko: /vendor/lib/modules/ccci_md_all.ko /vendor/lib/modules/ccci_auxadc.ko /vendor/lib/modules/ccci_util_lib.ko /vendor/lib/modules/ccmni.ko /vendor/lib/modules/rps_perf.ko /vendor/lib/modules/scp.ko /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko
+/vendor/lib/modules/gt9916r_daria.ko:
+/vendor/lib/modules/mtk-pmic-oc-debug.ko: /vendor/lib/modules/ccci_md_all.ko /vendor/lib/modules/ccci_auxadc.ko /vendor/lib/modules/ccci_util_lib.ko /vendor/lib/modules/ccmni.ko /vendor/lib/modules/rps_perf.ko /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko
+/vendor/lib/modules/c2k_usb.ko: /vendor/lib/modules/ccci_md_all.ko /vendor/lib/modules/ccci_auxadc.ko /vendor/lib/modules/ccci_util_lib.ko /vendor/lib/modules/ccmni.ko /vendor/lib/modules/rps_perf.ko /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko
+/vendor/lib/modules/widevine_driver.ko: /vendor/lib/modules/mtk_sec_heap.ko /vendor/lib/modules/tmem_ffa.ko /vendor/lib/modules/gz_tz_system.ko /vendor/lib/modules/gz_ipc_mod.ko /vendor/lib/modules/gz_trusty_mod.ko
+/vendor/lib/modules/snd-soc-audiodsp-common.ko: /vendor/lib/modules/audio_ipi.ko /vendor/lib/modules/mtk-scp-audiocommon.ko /vendor/lib/modules/scp.ko /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko
+/system/lib/modules/nhc_fragment.ko: /system/lib/modules/6lowpan.ko
+/system/lib/modules/6lowpan.ko:
+/system/lib/modules/cdc_eem.ko: /system/lib/modules/usbnet.ko /system/lib/modules/mii.ko
+/vendor/lib/modules/hbt.ko:
+/vendor/lib/modules/mtk-ssc.ko:
+/vendor/lib/modules/scp.ko: /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko
+/vendor/lib/modules/mtk-lpm-plat-v1.ko: /vendor/lib/modules/mtk-lpm-dbg-common-v2.ko /vendor/lib/modules/mtk-lpm.ko
+/vendor/lib/modules/trace_mmstat.ko: /vendor/lib/modules/mtk_gpu_hal.ko
+/vendor/lib/modules/scheduler.ko: /vendor/lib/modules/cpuqos_v3.ko /vendor/lib/modules/powerhal_cpu_ctrl.ko /vendor/lib/modules/mtk_ioctl_powerhal.ko /vendor/lib/modules/cpudvfs.ko /vendor/lib/modules/cpufreq_sugov_ext.ko /vendor/lib/modules/thermal_interface.ko /vendor/lib/modules/mtk_gpufreq_wrapper.ko /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko /vendor/lib/modules/mtk_gpu_hal.ko /vendor/lib/modules/gpueb.ko /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko
+/vendor/lib/modules/mtk-vmm-isp71-regulator.ko: /vendor/lib/modules/mtk_ccu.ko
+/system/lib/modules/mac802154.ko: /system/lib/modules/ieee802154.ko
+/vendor/lib/modules/thermal_trace.ko: /vendor/lib/modules/thermal_interface.ko /vendor/lib/modules/mtk_gpufreq_wrapper.ko /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko /vendor/lib/modules/mtk_gpu_hal.ko /vendor/lib/modules/gpueb.ko /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko
+/system/lib/modules/cdc_ether.ko: /system/lib/modules/usbnet.ko /system/lib/modules/mii.ko
+/vendor/lib/modules/fsa4480-i2c.ko: /vendor/lib/modules/mt6368-accdet.ko
+/system/lib/modules/usbnet.ko: /system/lib/modules/mii.ko
+/system/lib/modules/libarc4.ko:
+/vendor/lib/modules/gz_ipc_mod.ko: /vendor/lib/modules/gz_trusty_mod.ko
+/vendor/lib/modules/pmic_temp.ko:
+/vendor/lib/modules/wlan_drv_gen4m_6897.ko: /vendor/lib/modules/mddp.ko /vendor/lib/modules/cfg80211.ko /vendor/lib/modules/wmt_chrdev_wifi_connac2.ko /vendor/lib/modules/connfem.ko /vendor/lib/modules/conninfra.ko /vendor/lib/modules/ccci_md_all.ko /vendor/lib/modules/ccci_auxadc.ko /vendor/lib/modules/ccci_util_lib.ko /vendor/lib/modules/ccmni.ko /vendor/lib/modules/rps_perf.ko /vendor/lib/modules/connadp.ko /system/lib/modules/rfkill.ko /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko
+/vendor/lib/modules/mtk-swpm-mem-dbg-v6897.ko: /vendor/lib/modules/mtk-swpm.ko /vendor/lib/modules/mtk_qos.ko /vendor/lib/modules/sspm_v3.ko
+/vendor/lib/modules/gz_irq_mod.ko: /vendor/lib/modules/gz_trusty_mod.ko
+/vendor/lib/modules/mtk_aie.ko: /vendor/lib/modules/cmdq-sec-drv.ko /vendor/lib/modules/gz_tz_system.ko /vendor/lib/modules/gz_ipc_mod.ko /vendor/lib/modules/gz_trusty_mod.ko
+/vendor/lib/modules/mt6368-accdet.ko:
+/system/lib/modules/r8153_ecm.ko: /system/lib/modules/r8152.ko /system/lib/modules/cdc_ether.ko /system/lib/modules/usbnet.ko /system/lib/modules/mii.ko
+/system/lib/modules/nhc_dest.ko: /system/lib/modules/6lowpan.ko
+/system/lib/modules/btqca.ko: /system/lib/modules/bluetooth.ko /system/lib/modules/rfkill.ko
+/vendor/lib/modules/mtk_aie_debug_7sp.ko: /vendor/lib/modules/mtk_aie.ko /vendor/lib/modules/cmdq-sec-drv.ko /vendor/lib/modules/gz_tz_system.ko /vendor/lib/modules/gz_ipc_mod.ko /vendor/lib/modules/gz_trusty_mod.ko
+/vendor/lib/modules/adsp-v2.ko:
+/system/lib/modules/ieee802154_socket.ko: /system/lib/modules/ieee802154.ko
+/vendor/lib/modules/mtk_disp_sec.ko: /vendor/lib/modules/cmdq-sec-drv.ko /vendor/lib/modules/mtk_sec_heap.ko /vendor/lib/modules/tmem_ffa.ko /vendor/lib/modules/gz_tz_system.ko /vendor/lib/modules/gz_ipc_mod.ko /vendor/lib/modules/gz_trusty_mod.ko
+/vendor/lib/modules/clk-disable-unused.ko:
+/vendor/lib/modules/sspm_v3.ko:
+/system/lib/modules/hci_uart.ko: /system/lib/modules/btqca.ko /system/lib/modules/btbcm.ko /system/lib/modules/bluetooth.ko /system/lib/modules/rfkill.ko
+/vendor/lib/modules/gz_trusty_mod.ko:
+/system/lib/modules/aqc111.ko: /system/lib/modules/usbnet.ko /system/lib/modules/mii.ko
+/system/lib/modules/kheaders.ko:
+/vendor/lib/modules/mtk-swpm-core-dbg-v6897.ko: /vendor/lib/modules/mtk-swpm.ko /vendor/lib/modules/mtk_qos.ko /vendor/lib/modules/sspm_v3.ko
+/vendor/lib/modules/board_id.ko:
+/vendor/lib/modules/mtk-dvfsrc-start.ko:
+/vendor/lib/modules/mtk-btcvsd.ko:
+/system/lib/modules/pptp.ko: /system/lib/modules/pppox.ko /system/lib/modules/ppp_generic.ko /system/lib/modules/slhc.ko
+/system/lib/modules/tipc.ko:
+/system/lib/modules/ieee802154.ko:
+/vendor/lib/modules/snd-soc-mt6897-afe.ko: /vendor/lib/modules/snd-soc-mtk-scp-ultra.ko /vendor/lib/modules/snd-soc-mtk-common.ko /vendor/lib/modules/mtk-scp-ultra.ko /vendor/lib/modules/snd-soc-audiodsp-common.ko /vendor/lib/modules/audio_ipi.ko /vendor/lib/modules/mtk-scp-audiocommon.ko /vendor/lib/modules/ccci_md_all.ko /vendor/lib/modules/ccci_auxadc.ko /vendor/lib/modules/ccci_util_lib.ko /vendor/lib/modules/ccmni.ko /vendor/lib/modules/rps_perf.ko /vendor/lib/modules/scp.ko /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko
+/system/lib/modules/zsmalloc.ko:
+/vendor/lib/modules/mtk_ccu.ko:
+/vendor/lib/modules/camera_dpe_isp7sp.ko:
+/system/lib/modules/can.ko:
+/vendor/lib/modules/conninfra.ko: /vendor/lib/modules/ccci_md_all.ko /vendor/lib/modules/ccci_auxadc.ko /vendor/lib/modules/ccci_util_lib.ko /vendor/lib/modules/ccmni.ko /vendor/lib/modules/rps_perf.ko /vendor/lib/modules/connadp.ko /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko
+/vendor/lib/modules/mtk_gpufreq_wrapper.ko: /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko /vendor/lib/modules/mtk_gpu_hal.ko /vendor/lib/modules/gpueb.ko /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko
+/vendor/lib/modules/snd-soc-tfa98xx.ko: /vendor/lib/modules/mtk-sp-spk-amp.ko /vendor/lib/modules/snd-soc-audiodsp-common.ko /vendor/lib/modules/audio_ipi.ko /vendor/lib/modules/mtk-scp-audiocommon.ko /vendor/lib/modules/scp.ko /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko
+/vendor/lib/modules/cmdq-sec-drv.ko: /vendor/lib/modules/gz_tz_system.ko /vendor/lib/modules/gz_ipc_mod.ko /vendor/lib/modules/gz_trusty_mod.ko
+/vendor/lib/modules/mtk-scp-vow.ko: /vendor/lib/modules/mtk-vow.ko /vendor/lib/modules/scp.ko /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko
+/vendor/lib/modules/ccci_md_all.ko: /vendor/lib/modules/ccci_auxadc.ko /vendor/lib/modules/ccci_util_lib.ko /vendor/lib/modules/ccmni.ko /vendor/lib/modules/rps_perf.ko /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko
+/vendor/lib/modules/mtk-composite.ko:
+/vendor/lib/modules/clk-dbg-mt6897.ko:
+/vendor/lib/modules/cfg80211.ko: /system/lib/modules/rfkill.ko
+/vendor/lib/modules/snd-soc-aw882xx.ko: /vendor/lib/modules/mtk-sp-spk-amp.ko /vendor/lib/modules/snd-soc-audiodsp-common.ko /vendor/lib/modules/audio_ipi.ko /vendor/lib/modules/mtk-scp-audiocommon.ko /vendor/lib/modules/scp.ko /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko
+/vendor/lib/modules/mtk_ioctl_touch_boost.ko:
+/vendor/lib/modules/usb_offload.ko: /vendor/lib/modules/snd-soc-mtk-common.ko /vendor/lib/modules/mtk-scp-ultra.ko /vendor/lib/modules/snd-soc-audiodsp-common.ko /vendor/lib/modules/audio_ipi.ko /vendor/lib/modules/mtk-scp-audiocommon.ko /vendor/lib/modules/ccci_md_all.ko /vendor/lib/modules/ccci_auxadc.ko /vendor/lib/modules/ccci_util_lib.ko /vendor/lib/modules/ccmni.ko /vendor/lib/modules/rps_perf.ko /vendor/lib/modules/scp.ko /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko
+/vendor/lib/modules/mtk-vmm-notifier.ko:
+/vendor/lib/modules/touch_boost.ko: /vendor/lib/modules/mtk_ioctl_touch_boost.ko /vendor/lib/modules/scheduler.ko /vendor/lib/modules/cpuqos_v3.ko /vendor/lib/modules/powerhal_cpu_ctrl.ko /vendor/lib/modules/mtk_ioctl_powerhal.ko /vendor/lib/modules/cpudvfs.ko /vendor/lib/modules/mtk_perf_ioctl.ko /vendor/lib/modules/cpufreq_sugov_ext.ko /vendor/lib/modules/thermal_interface.ko /vendor/lib/modules/mtk_gpufreq_wrapper.ko /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko /vendor/lib/modules/mtk_gpu_hal.ko /vendor/lib/modules/gpueb.ko /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko
+/vendor/lib/modules/imgsensor-glue.ko:
+/vendor/lib/modules/mtk_usb_f_rndis.ko: /vendor/lib/modules/mtk_u_ether.ko /vendor/lib/modules/rps_perf.ko
+/vendor/lib/modules/pixel_manager.ko:
+/vendor/lib/modules/connscp.ko: /vendor/lib/modules/connadp.ko /vendor/lib/modules/scp.ko /vendor/lib/modules/mtk_low_battery_throttling.ko /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko
+/system/lib/modules/btbcm.ko: /system/lib/modules/bluetooth.ko /system/lib/modules/rfkill.ko
+/vendor/lib/modules/flashlight.ko: /vendor/lib/modules/mtk_peak_power_budget.ko /vendor/lib/modules/mtk_bp_thl.ko /vendor/lib/modules/mtk_battery_oc_throttling.ko /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko
+/vendor/lib/modules/mtk-vcodec-common.ko: /vendor/lib/modules/scheduler.ko /vendor/lib/modules/cpuqos_v3.ko /vendor/lib/modules/powerhal_cpu_ctrl.ko /vendor/lib/modules/mtk_ioctl_powerhal.ko /vendor/lib/modules/cpudvfs.ko /vendor/lib/modules/cpufreq_sugov_ext.ko /vendor/lib/modules/thermal_interface.ko /vendor/lib/modules/mtk_gpufreq_wrapper.ko /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko /vendor/lib/modules/mtk_gpu_hal.ko /vendor/lib/modules/gpueb.ko /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko
+/vendor/lib/modules/mtk_ccd_remoteproc.ko: /vendor/lib/modules/ccd_rpmsg.ko
+/vendor/lib/modules/mtk_low_battery_throttling.ko:
+/system/lib/modules/rfcomm.ko: /system/lib/modules/bluetooth.ko /system/lib/modules/rfkill.ko
+/vendor/lib/modules/backlight_cooling.ko:
+/system/lib/modules/gzvm.ko:
+/vendor/lib/modules/md_cooling_all.ko: /vendor/lib/modules/thermal_trace.ko /vendor/lib/modules/ccci_md_all.ko /vendor/lib/modules/ccci_auxadc.ko /vendor/lib/modules/ccci_util_lib.ko /vendor/lib/modules/ccmni.ko /vendor/lib/modules/rps_perf.ko /vendor/lib/modules/thermal_interface.ko /vendor/lib/modules/mtk_gpufreq_wrapper.ko /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko /vendor/lib/modules/mtk_gpu_hal.ko /vendor/lib/modules/gpueb.ko /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko
+/system/lib/modules/ieee802154_6lowpan.ko: /system/lib/modules/ieee802154.ko /system/lib/modules/6lowpan.ko
+/vendor/lib/modules/gps_scp.ko: /vendor/lib/modules/connscp.ko /vendor/lib/modules/connadp.ko /vendor/lib/modules/scp.ko /vendor/lib/modules/mtk_low_battery_throttling.ko /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko
+/vendor/lib/modules/mt6897-mt6368.ko: /vendor/lib/modules/snd-soc-mt6368.ko /vendor/lib/modules/snd-soc-mt6897-afe.ko /vendor/lib/modules/snd-soc-mtk-scp-ultra.ko /vendor/lib/modules/snd-soc-mtk-common.ko /vendor/lib/modules/mtk-scp-ultra.ko /vendor/lib/modules/mt6368-accdet.ko /vendor/lib/modules/mtk-sp-spk-amp.ko /vendor/lib/modules/snd-soc-audiodsp-common.ko /vendor/lib/modules/audio_ipi.ko /vendor/lib/modules/mtk-scp-audiocommon.ko /vendor/lib/modules/ccci_md_all.ko /vendor/lib/modules/ccci_auxadc.ko /vendor/lib/modules/ccci_util_lib.ko /vendor/lib/modules/ccmni.ko /vendor/lib/modules/rps_perf.ko /vendor/lib/modules/scp.ko /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko
+/vendor/lib/modules/snd-soc-mtk-common.ko: /vendor/lib/modules/mtk-scp-ultra.ko /vendor/lib/modules/snd-soc-audiodsp-common.ko /vendor/lib/modules/audio_ipi.ko /vendor/lib/modules/mtk-scp-audiocommon.ko /vendor/lib/modules/ccci_md_all.ko /vendor/lib/modules/ccci_auxadc.ko /vendor/lib/modules/ccci_util_lib.ko /vendor/lib/modules/ccmni.ko /vendor/lib/modules/rps_perf.ko /vendor/lib/modules/scp.ko /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko
+/vendor/lib/modules/mtk_fpsgo.ko: /vendor/lib/modules/ged.ko /vendor/lib/modules/mtk_gpu_qos.ko /vendor/lib/modules/mtk_cm_mgr.ko /vendor/lib/modules/mtk_cm_ipi.ko /vendor/lib/modules/scheduler.ko /vendor/lib/modules/cpuqos_v3.ko /vendor/lib/modules/powerhal_cpu_ctrl.ko /vendor/lib/modules/mtk_ioctl_powerhal.ko /vendor/lib/modules/cpudvfs.ko /vendor/lib/modules/mtk_perf_ioctl_magt.ko /vendor/lib/modules/mtk_perf_ioctl.ko /vendor/lib/modules/cpufreq_sugov_ext.ko /vendor/lib/modules/thermal_interface.ko /vendor/lib/modules/mtk_gpufreq_wrapper.ko /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko /vendor/lib/modules/mtk_gpu_hal.ko /vendor/lib/modules/gpueb.ko /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko /vendor/lib/modules/mtk_qos.ko /vendor/lib/modules/sspm_v3.ko
+/system/lib/modules/wwan.ko:
+/system/lib/modules/l2tp_ppp.ko: /system/lib/modules/l2tp_core.ko /system/lib/modules/pppox.ko /system/lib/modules/ppp_generic.ko /system/lib/modules/slhc.ko
+/vendor/lib/modules/mali_prot_alloc_mt6897_r44.ko:
+/vendor/lib/modules/mtk-scp-ultra.ko:
+/system/lib/modules/cdc-acm.ko:
+/vendor/lib/modules/mtk_imgsys_cmdq.ko: /vendor/lib/modules/cmdq-sec-drv.ko /vendor/lib/modules/gz_tz_system.ko /vendor/lib/modules/gz_ipc_mod.ko /vendor/lib/modules/gz_trusty_mod.ko
+/vendor/lib/modules/mtk-swpm-audio-dbg-v6897.ko: /vendor/lib/modules/mtk-swpm.ko /vendor/lib/modules/mtk_qos.ko /vendor/lib/modules/sspm_v3.ko
+/vendor/lib/modules/audio_ipi.ko: /vendor/lib/modules/mtk-scp-audiocommon.ko /vendor/lib/modules/scp.ko /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko
+/vendor/lib/modules/mtk-swpm.ko: /vendor/lib/modules/mtk_qos.ko /vendor/lib/modules/sspm_v3.ko
+/system/lib/modules/ax88179_178a.ko: /system/lib/modules/usbnet.ko /system/lib/modules/mii.ko
+/vendor/lib/modules/ccci_auxadc.ko: /vendor/lib/modules/ccci_util_lib.ko
+/vendor/lib/modules/mtk_ioctl_powerhal.ko:
+/vendor/lib/modules/gps_drv_dl_v051.ko: /vendor/lib/modules/conninfra.ko /vendor/lib/modules/ccci_md_all.ko /vendor/lib/modules/ccci_auxadc.ko /vendor/lib/modules/ccci_util_lib.ko /vendor/lib/modules/ccmni.ko /vendor/lib/modules/rps_perf.ko /vendor/lib/modules/connadp.ko /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko
+/vendor/lib/modules/nvmem-mt635x-efuse.ko:
+/vendor/lib/modules/apusys.ko: /vendor/lib/modules/mtk_peak_power_budget.ko /vendor/lib/modules/apu_top.ko /vendor/lib/modules/mtk_battery_oc_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko /vendor/lib/modules/mtk_qos.ko /vendor/lib/modules/sspm_v3.ko
+/system/lib/modules/vcan.ko: /system/lib/modules/can-dev.ko
+/system/lib/modules/bsd_comp.ko: /system/lib/modules/ppp_generic.ko /system/lib/modules/slhc.ko
+/vendor/lib/modules/mtk_u_ether.ko: /vendor/lib/modules/rps_perf.ko
+/vendor/lib/modules/lm3643.ko: /vendor/lib/modules/flashlight.ko /vendor/lib/modules/mtk_peak_power_budget.ko /vendor/lib/modules/mtk_bp_thl.ko /vendor/lib/modules/mtk_battery_oc_throttling.ko /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko
+/vendor/lib/modules/mtk_gpu_power_throttling.ko: /vendor/lib/modules/mtk_bp_thl.ko /vendor/lib/modules/mtk_battery_oc_throttling.ko /vendor/lib/modules/mtk_gpufreq_wrapper.ko /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko /vendor/lib/modules/mtk_gpu_hal.ko /vendor/lib/modules/gpueb.ko /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko
+/vendor/lib/modules/vcp.ko: /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko
+/vendor/lib/modules/spmi-mtk-mpu.ko:
+/vendor/lib/modules/task_turbo.ko: /vendor/lib/modules/cpufreq_sugov_ext.ko /vendor/lib/modules/thermal_interface.ko /vendor/lib/modules/mtk_gpufreq_wrapper.ko /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko /vendor/lib/modules/mtk_gpu_hal.ko /vendor/lib/modules/gpueb.ko /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko
+/vendor/lib/modules/thermal_interface.ko: /vendor/lib/modules/mtk_gpufreq_wrapper.ko /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko /vendor/lib/modules/mtk_gpu_hal.ko /vendor/lib/modules/gpueb.ko /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko
+/system/lib/modules/can-raw.ko: /system/lib/modules/can.ko
+/vendor/lib/modules/hf_manager.ko:
+/system/lib/modules/pppox.ko: /system/lib/modules/ppp_generic.ko /system/lib/modules/slhc.ko
+/vendor/lib/modules/iommu_test.ko:
+/vendor/lib/modules/ccd_rpmsg.ko:
+/vendor/lib/modules/snd-soc-mtk-scp-ultra.ko: /vendor/lib/modules/mtk-scp-ultra.ko /vendor/lib/modules/scp.ko /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko
+/vendor/lib/modules/connfem.ko:
+/vendor/lib/modules/gz_tz_system.ko: /vendor/lib/modules/gz_ipc_mod.ko /vendor/lib/modules/gz_trusty_mod.ko
+/vendor/lib/modules/mtk_jpeg.ko:
+/vendor/lib/modules/ged.ko: /vendor/lib/modules/mtk_gpu_qos.ko /vendor/lib/modules/mtk_gpufreq_wrapper.ko /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko /vendor/lib/modules/mtk_gpu_hal.ko /vendor/lib/modules/gpueb.ko /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko /vendor/lib/modules/mtk_qos.ko /vendor/lib/modules/sspm_v3.ko
+/vendor/lib/modules/c2k_usb_f_via_modem.ko: /vendor/lib/modules/c2k_usb.ko /vendor/lib/modules/ccci_md_all.ko /vendor/lib/modules/ccci_auxadc.ko /vendor/lib/modules/ccci_util_lib.ko /vendor/lib/modules/ccmni.ko /vendor/lib/modules/rps_perf.ko /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko
+/system/lib/modules/can-gw.ko: /system/lib/modules/can.ko
+/vendor/lib/modules/mtk-vcodec-enc-v2.ko: /vendor/lib/modules/vcp.ko /vendor/lib/modules/mtk-vcodec-common.ko /vendor/lib/modules/scheduler.ko /vendor/lib/modules/cpuqos_v3.ko /vendor/lib/modules/powerhal_cpu_ctrl.ko /vendor/lib/modules/mtk_ioctl_powerhal.ko /vendor/lib/modules/cpudvfs.ko /vendor/lib/modules/cpufreq_sugov_ext.ko /vendor/lib/modules/thermal_interface.ko /vendor/lib/modules/mtk_gpufreq_wrapper.ko /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko /vendor/lib/modules/mtk_gpu_hal.ko /vendor/lib/modules/gpueb.ko /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko
+/vendor/lib/modules/mtk_mbraink.ko: /vendor/lib/modules/mtk-lpm-dbg-common-v2.ko /vendor/lib/modules/mtk-lpm.ko /vendor/lib/modules/ccci_md_all.ko /vendor/lib/modules/ccci_auxadc.ko /vendor/lib/modules/ccci_util_lib.ko /vendor/lib/modules/ccmni.ko /vendor/lib/modules/rps_perf.ko /vendor/lib/modules/scp.ko /vendor/lib/modules/mtk-swpm.ko /vendor/lib/modules/mtk_fpsgo.ko /vendor/lib/modules/ged.ko /vendor/lib/modules/mtk_gpu_qos.ko /vendor/lib/modules/mtk_cm_mgr.ko /vendor/lib/modules/mtk_cm_ipi.ko /vendor/lib/modules/scheduler.ko /vendor/lib/modules/cpuqos_v3.ko /vendor/lib/modules/powerhal_cpu_ctrl.ko /vendor/lib/modules/mtk_ioctl_powerhal.ko /vendor/lib/modules/cpudvfs.ko /vendor/lib/modules/mtk_perf_ioctl_magt.ko /vendor/lib/modules/mtk_perf_ioctl.ko /vendor/lib/modules/cpufreq_sugov_ext.ko /vendor/lib/modules/thermal_interface.ko /vendor/lib/modules/mtk_gpufreq_wrapper.ko /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko /vendor/lib/modules/mtk_gpu_hal.ko /vendor/lib/modules/gpueb.ko /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko /vendor/lib/modules/mtk_qos.ko /vendor/lib/modules/sspm_v3.ko
+/system/lib/modules/btsdio.ko: /system/lib/modules/bluetooth.ko /system/lib/modules/rfkill.ko
+/vendor/lib/modules/gz_log_mod.ko: /vendor/lib/modules/gz_trusty_mod.ko
+/system/lib/modules/diag.ko: /system/lib/modules/tipc.ko
+/vendor/lib/modules/load_track.ko:
+/system/lib/modules/zram.ko: /system/lib/modules/zsmalloc.ko
+/system/lib/modules/nfc.ko: /system/lib/modules/rfkill.ko
+/vendor/lib/modules/mali_kbase_mt6897_r44.ko: /vendor/lib/modules/ged.ko /vendor/lib/modules/mtk_gpu_qos.ko /vendor/lib/modules/mtk_gpufreq_wrapper.ko /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko /vendor/lib/modules/mtk_gpu_hal.ko /vendor/lib/modules/gpueb.ko /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko /vendor/lib/modules/mtk_qos.ko /vendor/lib/modules/sspm_v3.ko /vendor/lib/modules/mtk_sec_heap.ko /vendor/lib/modules/tmem_ffa.ko /vendor/lib/modules/gz_tz_system.ko /vendor/lib/modules/gz_ipc_mod.ko /vendor/lib/modules/gz_trusty_mod.ko
+/vendor/lib/modules/mtk-soc-offload-common.ko: /vendor/lib/modules/snd-soc-audiodsp-common.ko /vendor/lib/modules/audio_ipi.ko /vendor/lib/modules/mtk-scp-audiocommon.ko /vendor/lib/modules/scp.ko /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko
+/vendor/lib/modules/apu_top.ko:
+/system/lib/modules/slcan.ko: /system/lib/modules/can-dev.ko
+/system/lib/modules/mii.ko:
+/vendor/lib/modules/main3_vcm.ko:
+/vendor/lib/modules/fhctl.ko: /vendor/lib/modules/mcupm.ko /vendor/lib/modules/gpueb.ko /vendor/lib/modules/mtk_tinysys_ipi.ko /vendor/lib/modules/mtk_rpmsg_mbox.ko /vendor/lib/modules/mtk-mbox.ko
+/vendor/lib/modules/uload_ind.ko: /vendor/lib/modules/load_track.ko
+/vendor/lib/modules/mac80211.ko: /vendor/lib/modules/cfg80211.ko /system/lib/modules/libarc4.ko /system/lib/modules/rfkill.ko
+/vendor/lib/modules/c2k_usb_f_via_ets.ko: /vendor/lib/modules/c2k_usb.ko /vendor/lib/modules/ccci_md_all.ko /vendor/lib/modules/ccci_auxadc.ko /vendor/lib/modules/ccci_util_lib.ko /vendor/lib/modules/ccmni.ko /vendor/lib/modules/rps_perf.ko /vendor/lib/modules/mtk_pbm.ko /vendor/lib/modules/mtk_mdpm.ko /vendor/lib/modules/mtk_dynamic_loading_throttling.ko /vendor/lib/modules/mtk_low_battery_throttling.ko
+/vendor/lib/modules/mtk-ipesys-me.ko:
+/vendor/lib/modules/mtk_mdpm.ko:
